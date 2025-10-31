@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Inputs 8 and 7 are in a NAND, and so are 6 and 5.
 
 ## How to test
 
-Explain how to use your project
+Input 8 and 7 should light the highest segment
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Multisegment LED Bar Display
